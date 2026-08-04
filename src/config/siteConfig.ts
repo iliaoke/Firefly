@@ -6,28 +6,19 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "LiaoKe的博客",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "记录生活,分享技术",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://blog.liao-ke.com",
 
 	// 站点描述
-	description:
-		"Firefly 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。",
+	description: "",
 
 	// 站点关键词
-	keywords: [
-		"Firefly",
-		"Fuwari",
-		"Astro",
-		"ACGN",
-		"博客",
-		"技术博客",
-		"静态博客",
-	],
+	keywords: [],
 
 	// 主题色
 	themeColor: {
@@ -55,7 +46,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		{
 			// 图标文件路径
-			src: "/favicon/firefly-32.png",
+			src: "/favicon/avatar-liaoke.png",
 			// 可选，指定主题 'light' | 'dark'
 			// theme: "light",
 			// 可选，图标大小
@@ -76,12 +67,11 @@ export const siteConfig: SiteConfig = {
 		// 使用 Astro 图标库时不需要设置 valueDark，图标会自动跟随主题亮暗色切换
 		logo: {
 			type: "image",
-			value: "assets/images/logo/firefly-light.png",
-			valueDark: "assets/images/logo/firefly-dark.png",
-			alt: "🍀",
+			value: "assets/images/avatar-liaoke.png",
+			alt: "🍥",
 		},
 		// 导航栏标题
-		title: "Firefly",
+		title: "LiaoKe的博客",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
@@ -104,19 +94,19 @@ export const siteConfig: SiteConfig = {
 		// 友链页面开关
 		friends: true,
 		// 打赏页面开关
-		sponsor: true,
+		sponsor: false,
 		// 留言板页面开关，需要配置评论系统
-		guestbook: true,
+		guestbook: false,
 		// 番组计划页面开关，含追番、游戏、书籍和音乐
-		bangumi: true,
+		bangumi: false,
 		// 相册页面开关
-		gallery: true,
+		gallery: false,
 		// 追番页面开关
-		anime: true,
+		anime: false,
 		// 动态页面开关
-		dynamic: true,
+		dynamic: false,
 		// 书签导航页面开关
-		booknav: true,
+		booknav: false,
 	},
 
 	// 分类导航栏开关，在首页和归档页顶部显示分类快捷导航
@@ -196,48 +186,10 @@ export const siteConfig: SiteConfig = {
 		generateOgImages: false,
 	},
 
-	// bangumi配置
-	bangumi: {
-		// Bangumi用户ID
-		userId: "1143164",
-		// 数据模式：static=构建时获取，dynamic=客户端实时获取
-		// static 模式在构建时获取数据并静态渲染，部署后数据不更新
-		// dynamic 模式在浏览器中实时请求 API，始终显示最新数据
-		mode: "dynamic",
-		// Bangumi API 地址
-		apiUrl: "https://bgmapi.anibt.net",
-		// 详情页地址
-		subjectBaseUrl: "https://bgmmi.anibt.net/subject/",
-		// 条目类型排序，数组中的类型将按顺序优先展示
-		// 可选值: "anime" | "book" | "music" | "game" | "real" (暂不支持"real"类型)
-		// 未列出的类型将按默认顺序排在后面
-		categoryOrder: ["anime", "book", "music", "game"],
-		// 控制各分类的启用状态（true/false），未指定的分类默认启用
-		// categories: {
-		// 	game: false, // 禁用游戏分类显示
-		// },
-	},
-
-	// 追番配置（Bilibili + TMDB）
-	anime: {
-		// Bilibili 配置
-		bilibili: {
-			// 你的 Bilibili 用户 UID
-			uid: "38932988",
-		},
-		// TMDB 配置（可选，需要翻墙）
-		// tmdb: {
-		//   // TMDB API 密钥
-		//   apiKey: "your_tmdb_api_key",
-		//   // TMDB 列表 ID
-		//   listId: "your_list_id",
-		// },
-	},
-
 	// 分页配置
 	pagination: {
 		// 每页显示的文章数量
-		postsPerPage: 10,
+		postsPerPage: 50,
 	},
 
 	// 图像优化及响应式配置
