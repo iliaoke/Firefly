@@ -83,7 +83,7 @@ export const siteConfig: SiteConfig = {
 	},
 
 	// 站点开始日期，用于统计运行天数
-	siteStartDate: "2025-01-01",
+	siteStartDate: "2025-10-01",
 
 	// 站点时区（IANA 时区字符串），用于格式化bangumi、rss里的构建日期时间等等..
 	// 示例："Asia/Shanghai", "UTC", 如果为空，则按照构建服务器的时区进行时区转换
@@ -104,7 +104,7 @@ export const siteConfig: SiteConfig = {
 		// 追番页面开关
 		anime: false,
 		// 动态页面开关
-		dynamic: false,
+		dynamic: true,
 		// 书签导航页面开关
 		booknav: false,
 	},
