@@ -31,13 +31,9 @@
   "src:content/posts/images/both-list.avif": "e5e7e4e6e8e7e3e3e5",
   "src:content/posts/images/both-grid.avif": "d5d6d3e6e7e3d8d9e3",
   "src:content/posts/images/1.avif": "b5b0b3bcb6bbe0e0df",
-  "src:content/posts/guide/cover.avif": "c8bca9dde6d2babfb5",
   "src:assets/images/logo/firefly-light.png": "000000000000000000",
   "src:assets/images/logo/firefly-dark.png": "ffffffffffffffffff",
   "src:assets/images/avatar-liaoke.png": "4f6a712a40435c7071",
-  "src:content/posts/talk/2.png": "6e6e69797a768f8985",
-  "src:content/posts/talk/2.jpg": "a8955fa38c58b0a669",
-  "src:content/posts/talk/1.jpg": "7272797772716f6d79",
   "src:content/posts/pageagent/1.png": "e0e6fde8e5fde9dff9",
   "src:content/posts/openwrt-vlan/7.jpg": "c2c3c9bbbcc3cfcecd",
   "src:content/posts/openwrt-vlan/6.jpg": "c8c9d0c1c2c9aaa9a9",
@@ -49,9 +45,11 @@
   "src:content/posts/orchids-openai-proxy/3.png": "4532322b25251e1e1e",
   "src:content/posts/orchids-openai-proxy/2.png": "3636372d2e2e2e2e2d",
   "src:content/posts/orchids-openai-proxy/1.png": "444240353736333433",
-  "src:content/posts/fps-game-low-frame/1.png": "1a1a1a0e0e0e141414",
   "src:content/posts/bypass-campus-wifi/4.png": "d8d9dadedfdfdedede",
   "src:content/posts/bypass-campus-wifi/3.png": "d5d5d7d8d8d8d9d9d9",
   "src:content/posts/bypass-campus-wifi/2.png": "dbdddfdddededededf",
-  "src:content/posts/bypass-campus-wifi/1.png": "d9dbdddddededfdfe0"
+  "src:content/posts/bypass-campus-wifi/1.png": "d9dbdddddededfdfe0",
+  "public:dynamic/2025-12-26.png": "6e6e69797a768f8985",
+  "public:dynamic/2025-12-08.jpg": "a8955fa38c58b0a669",
+  "public:dynamic/2025-07-05.jpg": "7272797772716f6d79"
 }

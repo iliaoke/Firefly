@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /p/
+Sitemap: https://blog.liao-ke.com/sitemap.xml
