@@ -5,6 +5,8 @@ description: "从作业到考试，头歌（EduCoder）的防复制粘贴限制�
 tags: ["破解", "网络"]
 category: "学习笔记"
 slug: educoder-anti-copy-paste-bypass
+password: "11112222"  
+passwordHint: "该文章有一定法律风险，暂时上锁"
 ---
 
 ## 前言
