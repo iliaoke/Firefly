@@ -1,0 +1,7 @@
+allowBuilds:
+  esbuild: false
+  workerd: false
+minimumReleaseAgeExclude:
+  - miniflare@5.20260801.0-alpha
+  - tsx@4.23.9
+  - wrangler@4.119.0
