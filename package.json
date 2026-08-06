@@ -80,10 +80,10 @@
     "stylus": "^0.64.0",
     "svelte": "^5.56.8",
     "tailwindcss": "^4.3.3",
-    "tsx": "^4.23.6",
+    "tsx": "^4.23.9",
     "typescript": "^6.0.3",
     "unist-util-visit": "^5.1.0",
-    "wrangler": "^4.118.0"
+    "wrangler": "^4.119.0"
   },
   "devDependencies": {
     "@astrojs/ts-plugin": "^1.10.10",
