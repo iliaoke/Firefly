@@ -100,5 +100,5 @@
     "rehype-callouts": "^2.2.0",
     "subset-font": "^2.5.0"
   },
-  "packageManager": "pnpm@11.20.0"
+  "packageManager": "pnpm@11.21.0"
 }
