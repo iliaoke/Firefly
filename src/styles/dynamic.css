@@ -381,14 +381,15 @@ dynamic-feed {
 	display: grid;
 	box-sizing: border-box;
 	min-width: 0;
-	width: min(100%, 48rem);
+	width: min(100%, 42rem);
 	max-width: 100%;
 	grid-template-columns: repeat(2, minmax(0, 1fr));
 	gap: 0.25rem;
 }
 
+.dynamic-gallery-grid[data-count="2"],
 .dynamic-gallery-grid[data-count="4"] {
-	width: min(100%, 32rem);
+	width: min(100%, 28rem);
 }
 
 .dynamic-gallery-grid[data-count="5"],
