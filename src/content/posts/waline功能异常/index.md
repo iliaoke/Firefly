@@ -2,7 +2,7 @@
 title: "随笔杂谈 | Waline用户列表加载失败 "
 published: 2026-08-19
 description: "记录一次 Waline 评论系统用户列表接口返回 500 的排查与修复过程，问题最终定位在 avatar 服务的字段名不匹配。"
-tags: ["hugo"]
+tags: ["博客"]
 category: "随笔杂谈"
 slug: waline-bugfix
 ---
