@@ -20,19 +20,19 @@
 ### Android
 
 1. 熟练掌握root方案(magisk,kernelsu,apatch),并初步了解他们的技术实现原理与区别。
-2. Android kernel的编译与patch
+2. Android kernel的编译与backport
 3. 初步掌握Android系统(Lineageos,crdroid,risingos......)的编译(但是出bug了不会修),32+1tb的运存储存规模有点不太够用了(现在内存储存涨价太多，目前不适合入手)
 4. 初步掌握Android应用开发
 ### Windows/Linux
 
 1. 了解各种系统uefi引导流程，熟悉构建多系统（windows/linux/fydeos/android x86）引导
 2. 熟悉各系统各个领域的软件生态(用于生产或者技术类型的软件)
-3. 熟悉github/vercle/cloudflare.....等网站的运用
+3. 熟悉github/vercle/cloudflare.....等等网站
 
 ### 其他技能
 
 1. 会用photodemo(p图)
-2. 熟悉git命令操作
+2. 熟练掌握git，npm等等cli管理工具
 
 ### 其他爱好
 
