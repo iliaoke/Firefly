@@ -185,7 +185,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 背景模糊度
 		blur: 10,
 		// 卡片透明度，0-1之间，值越小越透明
-		cardOpacity: 0.5,
+		cardOpacity: 0.6,
 	},
 	// 全屏壁纸模式特有配置
 	// 全屏模式下壁纸固定全屏显示，首屏居中标题，内容区在首屏之下、下滑时覆盖壁纸
@@ -198,6 +198,16 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		navbar: {
 			// 是否开启动态透明：开启后首页顶部导航栏透明，下滑后变不透明（仅首页生效）
 			dynamicTransparent: false,
+		},
+		// 首页下滑时壁纸模糊渐变开关（从 0 渐变为 overlay.blur 的最大模糊）
+		// 关闭后该设备上全屏壁纸保持清晰（首页与非首页都不模糊），设置面板的模糊度滑块也会隐藏
+		blurRamp: {
+			enable: {
+				// 桌面端是否启用模糊渐变
+				desktop: true,
+				// 移动端是否启用模糊渐变
+				mobile: true,
+			},
 		},
 	},
 };
