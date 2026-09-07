@@ -98,6 +98,12 @@ export const LinkPresets: Record<string, NavBarLink> = {
 		icon: "material-symbols:forum-rounded",
 		pageKey: "dynamic",
 	},
+	Projects: {
+		name: "项目",
+		url: "/projects/",
+		icon: "material-symbols:rocket-launch",
+		pageKey: "projects",
+	},
 	Gallery: {
 		name: "相册",
 		url: "/gallery/",
