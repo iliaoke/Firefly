@@ -1,5 +1,5 @@
 ---
-title: "学习笔记 | Steam 假入库那些事"
+title: "学习笔记 | Steam 假入库原理分析"
 published: 2025-12-03
 description: "从 Steam 授权与清单文件机制出发，拆解“假入库”的实现思路（清单/密钥获取、Steamworks API 劫持等），对常见做法的局限与风险做说明，并给出辨别与处理建议。"
 tags: ["Steam", "游戏"]
