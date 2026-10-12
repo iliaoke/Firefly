@@ -16,7 +16,7 @@ slug: google-student-verification
 
 ## 认证过程
 登录https://gemini.google.com/students
-点击下方按钮(没有显示，就换一个真实的节点)
+点击下方按钮(没有显示，就换一个可以显示的节点)
 ![](./1.png)
 ![](./2.png)
 进入之后选择国家页面选择台湾
