@@ -31,8 +31,6 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			// 标签
 			LinkPresets.Tags,
 
-			// 系列
-			LinkPresets.Series,
 		],
 	});
 
