@@ -1,5 +1,5 @@
 ---
-title: "学习笔记 | openwrt25.10设置vlan实现单线复用"
+title: "学习笔记 | openwrt25.12设置vlan实现单线复用"
 published: 2026-02-25
 description: "通过在光猫、主路由与房间子路由三端统一配置vlanid，实现桥接模式下的单线复用，让光猫其他网口/房间网口也能正常获取主路由DHCP下发的IP，并给出openwrt25.10的配置步骤与注意事项。"
 tags: ["软路由", "指南"]
