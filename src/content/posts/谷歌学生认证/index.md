@@ -13,6 +13,7 @@ slug: google-student-verification
 1. 一个Google账号
 2. 一个美国节点(或者别的可以触发学生优惠的网络节点)
 3. 学信网教育部学籍在线验证报告(没有可以P图)
+4. Google账号里面要至少有一个支付方式(visa卡或支持的其他方式)
 
 ## 认证过程
 登录https://gemini.google.com/students
