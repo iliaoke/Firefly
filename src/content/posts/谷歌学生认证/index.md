@@ -2,7 +2,7 @@
 title: "随笔杂谈 | 中国大学生白嫖Google AI Pro学生订阅一年"
 published: 2026-10-12
 description: "Google 的第三方学生身份认证平台 SheerID 已支持中国大陆高校认证，中国大学生可免费领取一年 Google AI Pro 学生订阅，本文记录完整的认证流程与注意事项。"
-tags: ["AI","指南"]
+tags: ["AI","指南","薅羊毛"]
 category: "随笔杂谈"
 slug: google-student-verification
 ---
