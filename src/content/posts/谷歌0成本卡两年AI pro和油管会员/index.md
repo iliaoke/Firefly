@@ -10,6 +10,12 @@ slug: google-ai-pro-2year-zero-cost
 最近很多卡密小店冒出了几十块卡谷歌两年AI pro和油管会员，在我的不懈努力下，也是成功找到了其项目的[开源地址](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)
 ![](./1.png)
 
+## 准备
+1. 一个谷歌小号（不要用大号，怕被封号）
+2. 用于验证的visa或万事达的国际银行卡
+3. Chrome浏览器
+4. Python环境
+
 ## 分析
 
 这个项目的整体思路其实不复杂：先登录账号，然后正常打开 Google One 的订阅页面。等页面准备发起结账请求的时候，把请求里面的优惠方案替换掉，最后再利用 Google Play 本身的订阅变更功能，把几次优惠接到同一个订阅后面。
