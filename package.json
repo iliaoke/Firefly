@@ -87,7 +87,7 @@
     "stylus": "^0.64.0",
     "svelte": "^5.57.3",
     "tailwindcss": "^4.3.5",
-    "takumi-js": "^2.19.0",
+    "takumi-js": "^2.20.0",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2",
     "unist-util-visit": "^5.2.0",
