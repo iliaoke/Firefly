@@ -64,4 +64,4 @@ user.avatar ||= await think.service('avatar').stringify({
 重新部署waline服务，用户列表恢复正常。
 
 ## 小结
-最后改完之后也是把修复补丁重新[pr](https://github.com/walinejs/waline/pull/3816)回上游了。
+最后改完之后也是把修复补丁重新[pr](https://github.com/walinejs/waline/pull/3816)回上游了。**目前PR已成功合并，大家重新部署最新版即可。**
