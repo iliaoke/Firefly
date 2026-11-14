@@ -7,6 +7,26 @@ category: "学习笔记"
 slug: bypass-campus-wifi
 ---
 
+**该文章已过时，请转至[新文章](https://blog.liao-ke.com/posts/bypass-campus-wifi-pro/)**
+
+**该文章已过时，请转至[新文章](https://blog.liao-ke.com/posts/bypass-campus-wifi-pro/)**
+
+**该文章已过时，请转至[新文章](https://blog.liao-ke.com/posts/bypass-campus-wifi-pro/)**
+
+**该文章已过时，请转至[新文章](https://blog.liao-ke.com/posts/bypass-campus-wifi-pro/)**
+
+**该文章已过时，请转至[新文章](https://blog.liao-ke.com/posts/bypass-campus-wifi-pro/)**
+
+**该文章已过时，请转至[新文章](https://blog.liao-ke.com/posts/bypass-campus-wifi-pro/)**
+
+**该文章已过时，请转至[新文章](https://blog.liao-ke.com/posts/bypass-campus-wifi-pro/)**
+
+
+
+
+
+
+
 ## 前言
 
 弄到了一个白嫖的校园网账号,但是触发设备连接上限了(电脑只要开热点，wifi就无法访问互联网),我手机电脑无法同时连接,于是便有了接下来这篇教程
