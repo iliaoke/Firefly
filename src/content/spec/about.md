@@ -51,7 +51,6 @@
 
 ## 代办事项
 - 一篇Android系统编译的blog
-- 直播推流的blog
 - blog编写客户端
 - u卡套利
-- 利用cloudflare的邮件路由功能得到无限收件邮箱
+- apatch 临时root适配系统模块
