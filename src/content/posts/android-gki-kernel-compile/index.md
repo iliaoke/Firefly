@@ -2,7 +2,7 @@
 title: "学习笔记 | GKI 内核不完全编译实战"
 published: 2025-12-05
 description: "以 GKI 5.10+ 为例，记录 Android 内核“不完全编译”的完整流程：环境依赖、编译链选择、编译命令到 AnyKernel3 打包刷入，并附常见坑与排查思路。"
-tags: ["Android", "内核", "Gki", "指南"]
+tags: ["Android", "内核", "GKI", "指南"]
 category: "学习笔记"
 slug: android-gki-kernel-compile
 ---
