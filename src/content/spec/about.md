@@ -53,4 +53,3 @@
 - 一篇Android系统编译的blog
 - blog编写客户端
 - u卡套利
-- apatch 临时root适配系统模块
