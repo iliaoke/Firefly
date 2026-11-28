@@ -1,9 +1,9 @@
 ---
-title: "学习笔记 | 简单设计一个OAuth认证回调服务器"
+title: "开发日记 | 简单设计一个OAuth认证回调服务器"
 published: 2026-07-28
 description: "使用 Cloudflare Worker 实现一个无状态的 GitHub OAuth 回调服务器，完成 code 换取 access_token，并通过自定义 App Scheme 返回移动端，分析这种方案的实现原理、优缺点及适用场景。"
 tags: ["网络"]
-category: "学习笔记"
+category: "开发日记"
 slug: github-oauth-callback-worker
 ---
 

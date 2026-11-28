@@ -1,9 +1,9 @@
 ---
-title: "学习笔记 | APatch越狱模式的加载与模块功能的完善日记"
+title: "开发日记 | APatch越狱模式的加载与模块功能的完善日记"
 published: 2026-11-28
 description: "记录为 APatch 完善越狱模式的完整实践：在 apd late-load 中补齐自动加载 ko 与软重启后系统模块加载，修复 KernelPatch LKM 的 seccomp 策略拦截问题，并解决 6.1–6.18 GKI 内核下因 kCFI 跳板页绕过遗漏导致的崩溃。"
 tags: ["Android","GKI", "Root", "内核"]
-category: "学习笔记"
+category: "开发日记"
 slug: apatch-jailbreak-mode-improvement
 ---
 ## 前言

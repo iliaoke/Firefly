@@ -1,9 +1,9 @@
 ---
-title: "学习笔记 | 头歌破解考试的防复制粘贴"
+title: "开发日记 | 头歌破解考试的防复制粘贴"
 published: 2026-07-23
 description: "从作业到考试，头歌（EduCoder）的防复制粘贴限制分别实现在配置层和事件层，记录一次逆向分析与油猴脚本破解过程。"
 tags: ["破解", "网络"]
-category: "学习笔记"
+category: "开发日记"
 slug: educoder-anti-copy-paste-bypass
 password: "11112222"  
 passwordHint: "该文章有一定法律风险，暂时上锁"
